@@ -1,1 +1,1 @@
-virtualenvwrapper
+virtualenvwrapper >= 4.2
