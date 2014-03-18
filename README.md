@@ -11,3 +11,14 @@
 ### Performance
 1. psyco
 2. pyprocessing
+
+### Commands
+
+developement:
+sudo pip install xx
+pip freeze > requirements.txt
+
+production:
+pip install -r requirements.txt
+
+
