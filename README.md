@@ -4,6 +4,10 @@
 1. anaconda
 2. ngrok
 3. Supervisor
+4. docopt - command line arguments parser
+
+### Database
+1. peewee for ORM
 
 ### html parser
 1. PyQuery
