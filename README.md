@@ -2,7 +2,7 @@
 
 ### python list
 1. anaconda
-2. ngrok
+2. ngrok - share local port to Internet
 3. Supervisor
 4. docopt - command line arguments parser
 
