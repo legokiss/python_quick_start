@@ -15,10 +15,12 @@
 ### Commands
 
 developement:
-sudo pip install xx
-pip freeze > requirements.txt
+
+    sudo pip install xx
+    pip freeze > requirements.txt
 
 production:
-pip install -r requirements.txt
+
+    pip install -r requirements.txt
 
 
