@@ -3,3 +3,4 @@
 ### python list
 1. anaconda
 2. ngrok
+3. Supervisor
