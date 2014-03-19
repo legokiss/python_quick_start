@@ -5,6 +5,7 @@
 2. ngrok - share local port to Internet
 3. Supervisor
 4. docopt - command line arguments parser
+5. pvm - python virtualenv management. https://github.com/legokiss/pvm
 
 ### Database
 1. peewee for ORM
