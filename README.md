@@ -6,6 +6,7 @@
 3. Supervisor
 4. docopt - command line arguments parser
 5. pvm - python virtualenv management. https://github.com/legokiss/pvm
+6. pycharm - python IDE
 
 ### Database
 1. peewee for ORM
