@@ -3,10 +3,12 @@
 ### python list
 1. anaconda
 2. ngrok - share local port to Internet
-3. Supervisor
+3. Supervisor - monitor and control a number of processes , monitor server
 4. docopt - command line arguments parser
 5. pvm - python virtualenv management. https://github.com/legokiss/pvm
 6. pycharm - python IDE
+7. fabric - deploy code
+
 
 ### Database
 1. peewee for ORM
