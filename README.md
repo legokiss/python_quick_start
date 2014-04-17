@@ -24,6 +24,10 @@
 ### Json
 1. Colander - parse json string to python objects
 
+### Web
+1. python-munin - web monitor
+2. Sentry - error log system
+
 ### Commands
 
 developement:
