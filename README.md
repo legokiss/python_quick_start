@@ -8,6 +8,7 @@
 5. pvm - python virtualenv management. https://github.com/legokiss/pvm
 6. pycharm - python IDE
 7. fabric - deploy code
+8. nose - run all unit test files under the directory.
 
 
 ### Database
